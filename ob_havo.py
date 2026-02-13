@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher
 from aiogram.filters import Command
 from aiogram.types import Message
 
-TOKEN = "8100238469:AAHeLqOzip7AfSWgc0el9siBoScvFWQm6fY"
+TOKEN = "Token kiritasz"
 viloyatlar = {
     "Toshkent": ["41.3351", "69.2299"],
     "Sirdaryo": ["40.8711", "68.7103"],

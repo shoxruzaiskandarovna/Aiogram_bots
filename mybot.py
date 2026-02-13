@@ -4,8 +4,8 @@ from aiogram.filters import Command
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.exceptions import TelegramBadRequest
 
-TOKEN = "7682243909:AAEB5Ol6zVSLeCVrcNmxDqqTaT22QESCWsc"
-ADMIN_ID = 2052902289
+TOKEN = "Bu yerga Bot token yozasz"
+ADMIN_ID =  123446
 CHANNEL_USERNAME = "@aaestix"  # Kanalingizni kiriting (@ bilan)
 last_user = {}
 dp = Dispatcher()
